@@ -5,10 +5,10 @@ A high-fidelity UI clone of WhatsApp, engineered to replicate the seamless commu
 > ⚠️ Disclaimer > This project is for educational and portfolio purposes only. It is an independent UI study and is not affiliated with WhatsApp or Meta.
 > 
 📸 App Preview
-A unified codebase delivering three distinct experiences:
- * Desktop Size: Dual-pane view (Chat list + Active Conversation).
- * Tablet Size: Optimized wide-screen layout with expanded sidebars.
- * Mobile Size: Standard stacked navigation for one-handed use.
+<Img src="lib/whatsapp.png">
+<br>
+<br>
+<br>
 (Insert your screenshots here later)
 📖 Table of Contents
  * ✨ Features
