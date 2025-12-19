@@ -9,7 +9,6 @@ A high-fidelity UI clone of WhatsApp, engineered to replicate the seamless commu
 <br>
 <br>
 <br>
-(Insert your screenshots here later)
 📖 Table of Contents
  * ✨ Features
  * ⚙️ Tech Stack
